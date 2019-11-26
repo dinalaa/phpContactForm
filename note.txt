@@ -1,0 +1,3 @@
+Important Note:
+
+Change your database username and password in connection.php file.
